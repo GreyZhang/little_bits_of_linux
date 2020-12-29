@@ -3,3 +3,4 @@
 - 学习应该会分为两部分，第一部分应该是操作系统的使用，而第二部分则是linux内核的学习。
 * 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/111397303][485_Linux环境下扫描局域网内所有设备的IP]]
+- [[https://greyzhang.blog.csdn.net/article/details/111936461][488_linux汇编语言基础常识]]

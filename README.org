@@ -4,3 +4,4 @@
 * 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/111397303][485_Linux环境下扫描局域网内所有设备的IP]]
 - [[https://greyzhang.blog.csdn.net/article/details/111936461][488_linux汇编语言基础常识]]
+- [[https://greyzhang.blog.csdn.net/article/details/111998816][489_linux内核学习Bochs运行例程以及问题排查]]

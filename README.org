@@ -7,3 +7,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/111998816][489_linux内核学习Bochs运行例程以及问题排查]]
 - [[https://greyzhang.blog.csdn.net/article/details/112045448][490_linux内核学习_bochsrc-0.12-fd运行]]
 - [[https://greyzhang.blog.csdn.net/article/details/112061251][491_linux内核学习_在Bochs模拟环境中进行linux 0.12与主机之间的文件交换]]
+- [[https://greyzhang.blog.csdn.net/article/details/112094189][492_linux内核学习_使用python处理引导扇区程序并在Bochs中运行]]

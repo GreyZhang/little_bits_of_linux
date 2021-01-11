@@ -12,3 +12,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/112335528][494_linux内核学习_0x7C00地址的选择原因]]
 - [[https://greyzhang.blog.csdn.net/article/details/112389695][495_linux内核学习_bootsect中的几个常量以及信息定义梳理]]
 - [[https://greyzhang.blog.csdn.net/article/details/112428259][496_linux内核学习_bootsect信息概览]]
+- [[https://greyzhang.blog.csdn.net/article/details/112495257][497_linux内核学习_setup.S代码略读]]

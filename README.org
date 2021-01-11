@@ -16,3 +16,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/112495557][498_linux内核学习_head.S代码略读]]
 - [[https://greyzhang.blog.csdn.net/article/details/112495961][501_linux内核学习_skip_atoi函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/112496126][502_linux内核学习_vsprintf函数的功能分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/112496272][503_linux内核学习_main函数分析]]

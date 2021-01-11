@@ -13,3 +13,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/112389695][495_linux内核学习_bootsect中的几个常量以及信息定义梳理]]
 - [[https://greyzhang.blog.csdn.net/article/details/112428259][496_linux内核学习_bootsect信息概览]]
 - [[https://greyzhang.blog.csdn.net/article/details/112495257][497_linux内核学习_setup.S代码略读]]
+- [[https://greyzhang.blog.csdn.net/article/details/112495557][498_linux内核学习_head.S代码略读]]

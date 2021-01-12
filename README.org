@@ -19,3 +19,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/112496272][503_linux内核学习_main函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/112496351][504_linux内核学习___va_rounded_size宏分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/112502168][505_linux内核学习_关于C语言函数的可变参数]]
+- [[https://greyzhang.blog.csdn.net/article/details/112547854][506_linux内核学习_sprintf函数分析]]

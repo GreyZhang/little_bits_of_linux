@@ -21,3 +21,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/112502168][505_linux内核学习_关于C语言函数的可变参数]]
 - [[https://greyzhang.blog.csdn.net/article/details/112547854][506_linux内核学习_sprintf函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/112596229][507_linux内核学习_write函数小结]]
+- [[https://greyzhang.blog.csdn.net/article/details/113621576][509_linux内核学习_posix IO小结]]

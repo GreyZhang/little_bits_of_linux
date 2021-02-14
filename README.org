@@ -24,3 +24,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113621576][509_linux内核学习_posix IO小结]]
 - [[https://greyzhang.blog.csdn.net/article/details/113807828][517_linux C编程中的fork函数]]
 - [[https://greyzhang.blog.csdn.net/article/details/113808418][518_linux C编程中的wait函数]]
+- [[https://greyzhang.blog.csdn.net/article/details/113809102][519_linux C编程wait函数进阶]]

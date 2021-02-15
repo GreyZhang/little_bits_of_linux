@@ -27,3 +27,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113809102][519_linux C编程wait函数进阶]]
 - [[https://greyzhang.blog.csdn.net/article/details/113809512][520_linux C编程waitpid函数]]
 - [[https://greyzhang.blog.csdn.net/article/details/113811051][522_linux C编程exec函数族]]
+- [[https://greyzhang.blog.csdn.net/article/details/113813825][523_使用ssh访问虚拟机的ubuntu]]

@@ -29,3 +29,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113811051][522_linux C编程exec函数族]]
 - [[https://greyzhang.blog.csdn.net/article/details/113813825][523_使用ssh访问虚拟机的ubuntu]]
 - [[https://greyzhang.blog.csdn.net/article/details/113815057][524_linux C编程中的IPC signal]]
+- [[https://greyzhang.blog.csdn.net/article/details/113816347][525_linux C编程中IPC管道]]

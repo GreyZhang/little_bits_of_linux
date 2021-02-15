@@ -31,3 +31,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113815057][524_linux C编程中的IPC signal]]
 - [[https://greyzhang.blog.csdn.net/article/details/113816347][525_linux C编程中IPC管道]]
 - [[https://greyzhang.blog.csdn.net/article/details/113817122][526_linux C编程IPC有名管道]]
+- [[https://greyzhang.blog.csdn.net/article/details/113819091][527_linux内核学习_asm.S文件浏览]]

@@ -33,3 +33,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113817122][526_linux C编程IPC有名管道]]
 - [[https://greyzhang.blog.csdn.net/article/details/113819091][527_linux内核学习_asm.S文件浏览]]
 - [[https://greyzhang.blog.csdn.net/article/details/113826700][528_linux内核学习_内核进程启动分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/113827012][529_linux内核学习_trap.c代码浏览以及分析]]

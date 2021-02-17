@@ -37,3 +37,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113828824][531_linux内核学习_sys_call.s文件分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/113832992][532_linux内核学习_mktime.c文件分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/113834776][533_linux内核学习__BLOCKABLE功能分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/113835895][534_linux内核学习_show_task函数task_struct结构体信息分析]]

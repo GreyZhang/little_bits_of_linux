@@ -41,3 +41,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113836591][535_linux内核学习_printk函数以及终端操作]]
 - [[https://greyzhang.blog.csdn.net/article/details/113837070][536_linux内核学习_显示任务状态函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/113838631][537_linux内核学习_schedule函数分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/113838921][538_linux内核学习_早期linux内核支持的信号种类]]

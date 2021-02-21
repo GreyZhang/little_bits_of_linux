@@ -43,3 +43,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113838631][537_linux内核学习_schedule函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/113838921][538_linux内核学习_早期linux内核支持的信号种类]]
 - [[https://greyzhang.blog.csdn.net/article/details/113916653][542_top命令信息分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/113918228][543_sys_pause函数功能以及调用分析]]

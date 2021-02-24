@@ -45,3 +45,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113916653][542_top命令信息分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/113918228][543_sys_pause函数功能以及调用分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/113923406][544_linux内核学习___sleep_on函数功能分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/114042704][546_linux内核学习_sys_pause函数分析]]

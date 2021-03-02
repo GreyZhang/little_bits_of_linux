@@ -50,3 +50,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114241154][557_linux内核学习_sys_alarm函数的功能以及分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/114241558][558_linux内核学习_几个获取进程ID的函数]]
 - [[https://greyzhang.blog.csdn.net/article/details/114274822][560_linux内核学习_sched.c文件sched_init函数分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/114294772][561_尝试分析NAS自动重启的原因]]

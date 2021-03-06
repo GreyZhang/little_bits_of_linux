@@ -52,3 +52,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114274822][560_linux内核学习_sched.c文件sched_init函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/114294772][561_尝试分析NAS自动重启的原因]]
 - [[https://greyzhang.blog.csdn.net/article/details/114294851][562_debian buster中尝试修改时间]]
+- [[https://greyzhang.blog.csdn.net/article/details/114436361][563_linux主机之间使用命令行进行文件拷贝]]

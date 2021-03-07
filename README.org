@@ -59,3 +59,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114480587][567_linux内核学习_signal.c文件的泛读与分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/114481558][568_termux工具安装信息以及基于此实现ssh远程访问安卓]]
 - [[https://greyzhang.blog.csdn.net/article/details/114481930][569_termux下查看一加7手机的配置信息以及基本系统信]]
+- [[https://greyzhang.blog.csdn.net/article/details/114483371][570_termux中实现与安卓系统之间的文件共享]]

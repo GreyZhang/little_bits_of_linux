@@ -62,3 +62,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114483371][570_termux中实现与安卓系统之间的文件共享]]
 - [[https://greyzhang.blog.csdn.net/article/details/114486291][571_一加手机7上尝试搭建一个简单的C开发环境]]
 - [[https://greyzhang.blog.csdn.net/article/details/114486465][572_一加手机7上安装sz以及rz工具]]
+- [[https://greyzhang.blog.csdn.net/article/details/115046814][573_玩客云安装qbittorrent]]

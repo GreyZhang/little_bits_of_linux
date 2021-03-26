@@ -64,3 +64,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114486465][572_一加手机7上安装sz以及rz工具]]
 - [[https://greyzhang.blog.csdn.net/article/details/115046814][573_玩客云安装qbittorrent]]
 - [[https://greyzhang.blog.csdn.net/article/details/115256246][575_linux内核学习_release函数分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/115256746][576_nanopi neo3 openwrt固件的web配置功能小结]]

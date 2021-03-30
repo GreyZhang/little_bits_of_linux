@@ -68,3 +68,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/115256823][577_linux内核学习_bad_task_ptr函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115288603][578_linux内核学习_audit_ptree函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115336370][579_linux内核学习_exit中的send_sig函数分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/115336511][580_linux内核学习_exit中两个进程以及进程组函数分析]]

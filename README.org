@@ -72,3 +72,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/115337006][581_linux内核学习_exit中的杀进程函数以及系统kill函数]]
 - [[https://greyzhang.blog.csdn.net/article/details/115337728][582_linux内核学习_检查一个进程组是否是孤立进程组]]
 - [[https://greyzhang.blog.csdn.net/article/details/115362179][583_linux内核学习_has_stopped_jobs函数分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/115363259][584_linux内核学习do_exit函数分析]]

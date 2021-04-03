@@ -74,3 +74,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/115362179][583_linux内核学习_has_stopped_jobs函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115363259][584_linux内核学习do_exit函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115421126][585_linux内核学习_do_exit的执行分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/115421336][586_linux内核学习_sys_exit函数的调用分析]]

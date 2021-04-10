@@ -76,3 +76,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/115421126][585_linux内核学习_do_exit的执行分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115421336][586_linux内核学习_sys_exit函数的调用分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115532781][587_linux内核学习_sys_waitpid函数分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/115584840][588_linux内核学习_fork.c中的copy_mem分析]]

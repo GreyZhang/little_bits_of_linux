@@ -78,3 +78,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/115532781][587_linux内核学习_sys_waitpid函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115584840][588_linux内核学习_fork.c中的copy_mem分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115648279][590_linux内核学习_fork.c中copy_process函数分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/115679847][591_linux内核学习_fork.c中的find_empty_process函数分析]]

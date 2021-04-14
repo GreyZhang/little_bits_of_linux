@@ -80,3 +80,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/115648279][590_linux内核学习_fork.c中copy_process函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115679847][591_linux内核学习_fork.c中的find_empty_process函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115710275][593_linux内核学习_sys.c中gid设置以及一些其他的简单接口]]
+- [[https://greyzhang.blog.csdn.net/article/details/115710802][594_linux内核学习_sys.c中sys_time函数分析]]

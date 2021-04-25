@@ -83,3 +83,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/115710802][594_linux内核学习_sys.c中sys_time函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115742983][595_linux内核学习_sys.c中sys_setreuid函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/115743164][596_linux内核学习_sys.c中sys_setuid函数分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/116140294][597_linux内核学习_sys.c中两个时间获取函数]]

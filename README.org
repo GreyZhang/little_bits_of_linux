@@ -88,3 +88,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/116381161][599_linux内核学习_sys.c中sys_setpgid函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/116428238][600_linux内核学习_sys.c中两个session处理相关函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/116428405][601_linux内核学习_sys.c中用户组信息的获取与设置]]
+- [[https://greyzhang.blog.csdn.net/article/details/116428810][602_linux内核学习_sys.c中检查任务是否属于某个用户组]]

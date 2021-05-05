@@ -90,3 +90,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/116428405][601_linux内核学习_sys.c中用户组信息的获取与设置]]
 - [[https://greyzhang.blog.csdn.net/article/details/116428810][602_linux内核学习_sys.c中检查任务是否属于某个用户组]]
 - [[https://greyzhang.blog.csdn.net/article/details/116430267][603_linux内核学习_sys.c中用户名以及主机名处理]]
+- [[https://greyzhang.blog.csdn.net/article/details/116431405][604_linux内核学习_sys.c中资源限值的两个处理接口]]

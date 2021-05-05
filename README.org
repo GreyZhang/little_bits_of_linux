@@ -86,3 +86,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/116140294][597_linux内核学习_sys.c中两个时间获取函数]]
 - [[https://greyzhang.blog.csdn.net/article/details/116380772][598_linux内核学习_sys.c中sys_brk函数分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/116381161][599_linux内核学习_sys.c中sys_setpgid函数分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/116428238][600_linux内核学习_sys.c中两个session处理相关函数分析]]

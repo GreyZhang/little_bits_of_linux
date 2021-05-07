@@ -93,3 +93,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/116431405][604_linux内核学习_sys.c中资源限值的两个处理接口]]
 - [[https://greyzhang.blog.csdn.net/article/details/116504654][605_linux内核学习_sys.c中sys_getrusage接口分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/116504946][606_linux内核学习_sys.c中时间获取与设置接口]]
+- [[https://greyzhang.blog.csdn.net/article/details/116505164][607_linux内核学习_printk.c文件分析]]

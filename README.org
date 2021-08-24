@@ -96,3 +96,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/116505164][607_linux内核学习_printk.c文件分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/116505387][608_linux内核学习_panic.c文件分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/119743692][726_在WSL中使用I3文件管理器]]
+- [[https://greyzhang.blog.csdn.net/article/details/119900932][745_在命令行中显示linux logo]]

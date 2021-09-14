@@ -98,3 +98,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119743692][726_在WSL中使用I3文件管理器]]
 - [[https://greyzhang.blog.csdn.net/article/details/119900932][745_在命令行中显示linux logo]]
 - [[https://greyzhang.blog.csdn.net/article/details/120295077][782_linux趣味命令之ls的错误纠正提示命令sl]]
+- [[https://greyzhang.blog.csdn.net/article/details/120295765][783_linux趣味命令之使用ascii码显示图像aview]]

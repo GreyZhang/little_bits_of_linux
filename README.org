@@ -100,3 +100,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120295077][782_linux趣味命令之ls的错误纠正提示命令sl]]
 - [[https://greyzhang.blog.csdn.net/article/details/120295765][783_linux趣味命令之使用ascii码显示图像aview]]
 - [[https://greyzhang.blog.csdn.net/article/details/120732325][855_linux下的JPEG格式图像无损压缩]]
+- [[https://greyzhang.blog.csdn.net/article/details/120960112][875_linux趣味命令之cowsay]]

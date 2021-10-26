@@ -102,3 +102,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120732325][855_linux下的JPEG格式图像无损压缩]]
 - [[https://greyzhang.blog.csdn.net/article/details/120960112][875_linux趣味命令之cowsay]]
 - [[https://greyzhang.blog.csdn.net/article/details/120960923][876_linux趣味命令之screenfetch]]
+- [[https://greyzhang.blog.csdn.net/article/details/120981882][877_linux趣味命令之figlet]]

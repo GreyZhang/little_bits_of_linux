@@ -104,3 +104,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120960923][876_linux趣味命令之screenfetch]]
 - [[https://greyzhang.blog.csdn.net/article/details/120981882][877_linux趣味命令之figlet]]
 - [[https://greyzhang.blog.csdn.net/article/details/122552331][1056_linux下使用命令行进行磁盘格式化]]
+** Ubuntu 与 KDE
+- [[https://blog.csdn.net/grey_csdn/article/details/126533001][1339_老电脑V480体验Linux系统]]

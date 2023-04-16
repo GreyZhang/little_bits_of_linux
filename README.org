@@ -106,3 +106,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122552331][1056_linux下使用命令行进行磁盘格式化]]
 ** Ubuntu 与 KDE
 - [[https://blog.csdn.net/grey_csdn/article/details/126533001][1339_老电脑V480体验Linux系统]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130181689][1680_ubuntu 安装CPAN]]

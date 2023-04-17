@@ -107,3 +107,4 @@
 ** Ubuntu 与 KDE
 - [[https://blog.csdn.net/grey_csdn/article/details/126533001][1339_老电脑V480体验Linux系统]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130181689][1680_ubuntu 安装CPAN]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130208533][1681_Ubuntu下查看某些文件夹下所有的文件大小]]

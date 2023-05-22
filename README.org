@@ -111,3 +111,5 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130208533][1681_Ubuntu下查看某些文件夹下所有的文件大小]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130252687][1683_Ubuntu的几个桌面对比]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130329043][1687_实现VM虚拟机中Ubuntu虚拟机与主机的文件共享]]
+** 杂篇
+- [[https://blog.csdn.net/grey_csdn/article/details/130818792][1719_Linux系统导论学习笔记]] 

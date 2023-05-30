@@ -115,3 +115,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130818792][1719_Linux系统导论学习笔记]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130854552][1720_Linux学习中的问题处理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130920664][1725_计算机概论学习手记]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130960860][1727_使用虚拟机安装CentOS-7]]

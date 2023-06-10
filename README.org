@@ -117,3 +117,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130920664][1725_计算机概论学习手记]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130960860][1727_使用虚拟机安装CentOS-7]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131119483][1736_tar命令的简单使用]]
+- [[https://blog.csdn.net/grey_csdn/article/details/131140539][1737_Linux文件夹与目录管理小结]]

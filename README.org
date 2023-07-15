@@ -122,3 +122,5 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/131199754][1741_CentOS 安装firefox flash插件]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131547276][1761_Debian中软件安装权限问题解决]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131740221][1770_VirtualBox下安装Debian]]
+- [[https://blog.csdn.net/grey_csdn/article/details/131740365][1771_Windows下格式化Linux硬盘]]
+

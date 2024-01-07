@@ -124,3 +124,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/131740221][1770_VirtualBox下安装Debian]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131740365][1771_Windows下格式化Linux硬盘]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133582140][1802_在Linux系统上开发ARM单机片机嵌入式软件]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135440237][1873_ssh scp的速度限制设置]]
